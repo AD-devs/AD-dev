@@ -1,0 +1,9 @@
+.DS_Store
+Terminal
+Thumbs.db
+desktop.ini
+*.tmp
+*.sh
+Old/*
+*.log
+.idex
