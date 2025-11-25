@@ -1,0 +1,12 @@
+Package: com.adb.sct-ad
+Name: iOS ADB (Apple-iPhone Debug Bridge)
+Version: 2.6-39
+Architecture: iphoneos-arm64
+Depends: openssh, zsh, unzip, sudo, dpkg, apt, coreutils, less
+Pre-Depends: openssh, zsh, unzip
+Maintainer: AD
+Author: AD
+Section: CLI-Tool
+Icon: https://ad-ios.github.io/ad/CydiaIcon.png
+SileoDepiction: https://ad-ios.github.io/ad/sileodepiction/com.adb.sct-ad/js.json
+Description: 一款仿Android的ADB的终端插件,不过现在和Android的ADB已经有很多区别了,下载完成后终端输入adb --help查看完整命令或者查看截图
