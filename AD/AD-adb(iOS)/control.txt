@@ -1,6 +1,6 @@
 Package: com.adb.sct-ad
-Name: iOS ADB (Apple-iPhone Debug Bridge)
-Version: 2.6-39
+Name: iOS ADB(Apple-iPhone Debug Bridge)
+Version: 2.7
 Architecture: iphoneos-arm64
 Depends: openssh, zsh, unzip, sudo, dpkg, apt, coreutils, less
 Pre-Depends: openssh, zsh, unzip
